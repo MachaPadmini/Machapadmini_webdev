@@ -1,0 +1,233 @@
+body {
+  background: linear-gradient(to right, #d5c1d8, #e3abdd);
+  padding: 20px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  hr {
+    height: 3px;
+    margin: 0px;
+  }
+  h3 {
+    margin: 0px;
+  }
+}
+.vline {
+  width: 5px !important;
+  height: 70%;
+  border: 3px solid rgb(80, 82, 82);
+  margin: 5px;
+  float: inline-start;
+}
+.eduline {
+  margin-top: 30px;
+}
+nav {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+
+  span {
+    margin-left: 50px;
+    background-color: rgb(164, 183, 220);
+    border-radius: 3px;
+    padding: 2px;
+    img {
+      width: 15px;
+    }
+  }
+}
+
+.about {
+  height: 150px;
+  padding: 10px;
+  background: linear-gradient(to right, #e6e1b2, #eab3b3, #B3E5E0, #c6e6d0, #eeafd5, #dfe8b2);
+}
+.aboutme {
+  width: 900px;
+  float: inline-start;
+  height: 100%;
+  h1 {
+    font-size: 80px;
+    margin: 0px;
+  }
+  h3 {
+    margin-top: 15px;
+    font-size: 30px;
+    margin: 0px;
+  }
+}
+.myimage {
+  width: 200px;
+  float: inline-start;
+  margin-left: 300px;
+  img {
+    width: 150px;
+  }
+}
+
+.obj {
+  background: linear-gradient(to right, #bcebec, #deb4d9);
+  height: 150px;
+  padding: 10px;
+}
+.objective {
+  padding: 10px;
+  margin-left: 10px;
+  img {
+    width: 100px;
+    margin: 10px;
+    float: inline-start;
+  }
+  a {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 1250px;
+    float: inline-start;
+  }
+}
+.work {
+  background: linear-gradient(to bottom, #cce4c9, #deb4d9);
+  height: 270px;
+  padding: 10px;
+}
+
+.experience {
+  height: 100px;
+  width: 100%;
+  padding: 10px;
+  margin-left: 10px;
+  img {
+    margin: 10px;
+    float: inline-start;
+    width: 100px;
+  }
+  a {
+    width: 1300px;
+    margin-top: 10px;
+    margin-left: 20px;
+    float: inline-start;
+  }
+}
+
+.prj {
+  height: 200px;
+  background: linear-gradient(to right, #d8e2bb, #a8a8dc);
+  padding: 10px;
+}
+.projects {
+  height: 200px;
+}
+
+.project {
+  margin-top: 10px;
+  width: 650px;
+  margin-left: 50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  float: inline-start;
+
+  img {
+    width: 100px;
+    height: 100px;
+    margin-top: 15px;
+    float: inline-start;
+  }
+  a {
+    width: 500px;
+    margin-left: 20px;
+    float: inline-start;
+  }
+}
+
+.content {
+  height: 200px;
+  background: linear-gradient(to right, #d6a97e, #bfe2e1);
+}
+.block {
+  padding: 10px;
+  width: 650px;
+  margin-left: 40px;
+  float: inline-start;
+  img {
+    width: 100px;
+    float: left;
+  }
+  a {
+    width: 530px;
+    float: right;
+  }
+}
+.education {
+  margin-top: 20px;
+}
+.certification {
+  margin-top: 20px;
+}
+.ski {
+  background: linear-gradient(to right, #e8abd0, #bee7e6, #f9bbab);
+
+  height: 230px;
+  padding: 10px;
+}
+
+.skills {
+  height: 250px;
+  margin-left: 40px;
+}
+.skill {
+  width: 400px;
+  margin-left: 20px;
+  float: inline-start;
+  margin-left: 20px;
+  img {
+    width: 80px;
+    float: left;
+    margin-top: 15px;
+    height: 100px;
+  }
+  a {
+    width: 300px;
+    float: right;
+  }
+}
+
+.blogs {
+  background: linear-gradient(to bottom, #e6c4c1, #bfc7e2);
+  height: 240px;
+  padding: 10px;
+}
+.blog {
+  height: 100px;
+  margin: 10px;
+  img {
+    width: 80px;
+    margin: 30px;
+    margin-left: 40px;
+    float: inline-start;
+  }
+  a {
+    width: 1200px;
+    margin-top: 20px;
+    float: inline-start;
+  }
+}
+
+footer {
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  span {
+    margin-left: 50px;
+    background-color: rgb(180, 172, 244);
+    border-radius: 3px;
+    padding: 2px;
+    img {
+      width: 15px;
+    }
+  }
+}
